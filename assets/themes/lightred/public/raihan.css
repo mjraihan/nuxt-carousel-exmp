@@ -1,0 +1,25 @@
+.mainFooter {
+	font-family: 'Poppins', sans-serif;
+	font-size: 11pt;
+	background-color: #ed3237;
+	color: white;
+}
+
+
+/*MEDIA QUERY*/
+@media (min-width: 1024px) {
+	.mainFooter {
+		padding: 24px 19% !important;
+	}
+}
+
+
+
+
+
+
+
+/*UTIL*/
+.border-right-white {
+	border-right: 2px solid white;
+}
